@@ -1,0 +1,12 @@
+{
+  "name": "오모스 캘린더",
+  "short_name": "오모스",
+  "description": "스쿠버다이빙 투어 일정 캘린더",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EAF3F5",
+  "theme_color": "#07566A"
+}
